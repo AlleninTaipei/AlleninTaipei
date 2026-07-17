@@ -18,7 +18,7 @@
 
 ## AI-Assisted Development
 
-### API Key require
+### API Key required
 
 [claude-api-visual-primer](https://github.com/AlleninTaipei/claude-api-visual-primer) : 圖解 LLM API 開發概念, 協助開發者更有效採用 AI 輔助編碼.
 

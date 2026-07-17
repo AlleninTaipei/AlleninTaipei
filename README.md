@@ -18,7 +18,7 @@ English | [中文](README-zh.md)
 
 ## AI-Assisted Development
 
-### API Key require
+### API Key required
 
 [claude-api-visual-primer](https://github.com/AlleninTaipei/claude-api-visual-primer) : A visual guide to LLM API development concepts, helping developers adopt AI-assisted coding more effectively.
 
