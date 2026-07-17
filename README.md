@@ -1,18 +1,18 @@
 # AlleninTaipei
 
-English | [中文](README-zh.md)
+[English](README-en.md)
 
-> A portfolio of AI-native tools and AI-assisted development projects.
+> AI 原生工具與 AI 輔助開發專案的作品集.
 
 ## AI-Native Assets
 
-[one_day_one_ai](https://github.com/AlleninTaipei/one_day_one_ai) : A concept showcase of digital assets in the AI era.
+[one_day_one_ai](https://github.com/AlleninTaipei/one_day_one_ai) : AI 時代數位資產的概念展示.
 
-[AI-Native-Card-Studio](https://github.com/AlleninTaipei/AI-Native-Card-Studio) : A card generation workflow built with Claude Code, code handles layout and screenshots, the AI agent handles image selection and semantic judgment.
+[AI-Native-Card-Studio](https://github.com/AlleninTaipei/AI-Native-Card-Studio) : 以 Claude Code 打造的圖文卡片生成工作流, 程式碼負責排版與截圖, AI Agent 負責選圖與語意判斷.
 
-[md2draw](https://github.com/AlleninTaipei/md2draw) : Converts Markdown notes and plans into Excalidraw diagrams in one step.
+[md2draw](https://github.com/AlleninTaipei/md2draw) : 一鍵將 Markdown 想法與計劃轉換成 Excalidraw 圖表.
 
-[claude-code-cli-lab](https://github.com/AlleninTaipei/claude-code-cli-lab) : An experimental project driving the Claude Code CLI's non-interactive mode through Python automation.
+[claude-code-cli-lab](https://github.com/AlleninTaipei/claude-code-cli-lab) : 以 Python 自動化驅動 Claude Code CLI 非互動模式的實驗專案.
 
 ---
 
@@ -20,50 +20,50 @@ English | [中文](README-zh.md)
 
 ### API Key required
 
-[claude-api-visual-primer](https://github.com/AlleninTaipei/claude-api-visual-primer) : A visual guide to LLM API development concepts, helping developers adopt AI-assisted coding more effectively.
+[claude-api-visual-primer](https://github.com/AlleninTaipei/claude-api-visual-primer) : 圖解 LLM API 開發概念, 協助開發者更有效採用 AI 輔助編碼.
 
-[MCPChat](https://github.com/AlleninTaipei/MCPChat) : An AI chat client demonstrating how to connect LLMs with external tools using the Model Context Protocol.
+[MCPChat](https://github.com/AlleninTaipei/MCPChat) : 示範以 Model Context Protocol 串接 LLM 與外部工具的 AI 聊天用戶端.
 
-[vocabulary-app](https://github.com/AlleninTaipei/vocabulary-app) : A product-thinking exercise, learning AI step by step while building an AI application.
+[vocabulary-app](https://github.com/AlleninTaipei/vocabulary-app) : 實踐產品思維, 在打造 AI 應用的過程中逐步學會 AI.
 
-[chitchat](https://github.com/AlleninTaipei/chitchat) : A product-thinking exercise, learning AI step by step while building an AI application.
+[chitchat](https://github.com/AlleninTaipei/chitchat) : 實踐產品思維, 在打造 AI 應用的過程中逐步學會 AI.
 
-[castroom](https://github.com/AlleninTaipei/castroom) : A product-thinking exercise, learning AI step by step while building an AI application.
+[castroom](https://github.com/AlleninTaipei/castroom) : 實踐產品思維, 在打造 AI 應用的過程中逐步學會 AI.
 
-[carbon-audit-tower](https://github.com/AlleninTaipei/carbon-audit-tower) : A proof of concept for an end-to-end audit process for GHG Protocol Scope 3, Category 4, upstream transportation.
+[carbon-audit-tower](https://github.com/AlleninTaipei/carbon-audit-tower) : 溫室氣體盤查議定書範疇三類別四上游運輸的端對端稽核流程概念驗證.
 
-[geo-pipeline](https://github.com/AlleninTaipei/geo-pipeline) : Converts ASRock product specs from Excel into Schema.org JSON-LD structured data to improve visibility in AI search engines.
+[geo-pipeline](https://github.com/AlleninTaipei/geo-pipeline) : 將 ASRock 產品規格從 Excel 轉換為 Schema.org JSON-LD 結構化資料, 提升在 AI 搜尋引擎中的能見度.
 
 ---
 
 ### No API Key required
 
-[ryzenai-computex-demo](https://github.com/AlleninTaipei/ryzenai-computex-demo) : A five-act live demo showcasing AMD Ryzen AI running on an ASRock PC at COMPUTEX 2026.
+[ryzenai-computex-demo](https://github.com/AlleninTaipei/ryzenai-computex-demo) : COMPUTEX 2026 展示 AMD Ryzen AI 於 ASRock 主機上運行的五幕現場展演.
 
-[script-kokoro-app](https://github.com/AlleninTaipei/script-kokoro-app) : A practical example of using AI-assisted coding to build a local text-to-speech pipeline.
+[script-kokoro-app](https://github.com/AlleninTaipei/script-kokoro-app) : 以 AI 輔助編碼打造本地端文字轉語音管線的實作範例.
 
-[consolidate-specs](https://github.com/AlleninTaipei/consolidate-specs) : A real business need, consolidating Excel spec sheets from multiple models into a single file for easier comparison and management.
+[consolidate-specs](https://github.com/AlleninTaipei/consolidate-specs) : 將多機種 Excel 規格檔彙整成單一檔案, 方便比較與管理的實務需求專案.
 
-[taiwan-portfolio](https://github.com/AlleninTaipei/taiwan-portfolio), [tw-stock-list-fetcher](https://github.com/AlleninTaipei/tw-stock-list-fetcher) : A personal Taiwan stock profit and loss tracker, built as a hands-on project for learning core PostgreSQL features.
+[taiwan-portfolio](https://github.com/AlleninTaipei/taiwan-portfolio), [tw-stock-list-fetcher](https://github.com/AlleninTaipei/tw-stock-list-fetcher) : 個人台股損益追蹤工具, 作為學習 PostgreSQL 核心功能的實作專案.
 
 ---
 
 ### GitHub-Pages
 
-[ai-literacy-course-zh](https://github.com/AlleninTaipei/ai-literacy-course-zh) : A three-part course that takes you step by step into using AI.
+[ai-literacy-course-zh](https://github.com/AlleninTaipei/ai-literacy-course-zh) : 帶你一步步上手 AI 的三部曲課程.
 
-[my-ClaudeCodeDoc](https://github.com/AlleninTaipei/my-ClaudeCodeDoc) : A Traditional Chinese guide to Claude Code's official docs, organized into twelve learning stages with interactive lessons.
+[my-ClaudeCodeDoc](https://github.com/AlleninTaipei/my-ClaudeCodeDoc) : Claude Code 官方文件中文整理手冊, 依十二個學習階段提供互動課程.
 
-[my-ChatGPTCodexDoc](https://github.com/AlleninTaipei/my-ChatGPTCodexDoc) : ChatGPT and Codex official docs rewritten in Traditional Chinese, converted into six interactive single-page courses.
+[my-ChatGPTCodexDoc](https://github.com/AlleninTaipei/my-ChatGPTCodexDoc) : 以繁體中文重新編寫的 ChatGPT 與 Codex 官方文件, 轉換成六份互動式單頁課程.
 
-[ASRockAICenter](https://github.com/AlleninTaipei/ASRockAICenter) : Explains the product philosophy of running enterprise AI entirely on on-premises infrastructure.
+[ASRockAICenter](https://github.com/AlleninTaipei/ASRockAICenter) : 說明企業 AI 完全在地端基礎設施運行的產品理念.
 
 ---
 
 ### Notes
 
-[LLM-Engineering-Notes](https://github.com/AlleninTaipei/LLM-Engineering-Notes) : A practitioner's notes on LLM engineering, built on a first-principles understanding of AI systems.
+[LLM-Engineering-Notes](https://github.com/AlleninTaipei/LLM-Engineering-Notes) : 從第一性原理理解 AI 系統的 LLM 工程筆記.
 
-[messy-notes-frontend-design-demo](https://github.com/AlleninTaipei/messy-notes-frontend-design-demo) : A minimal demo using the Claude Code frontend-design plugin to turn messy Markdown notes into an interactive webpage.
+[messy-notes-frontend-design-demo](https://github.com/AlleninTaipei/messy-notes-frontend-design-demo) : 以 Claude Code frontend-design plugin 將雜記 Markdown 轉成互動式網頁的最小示範.
 
-[TAICHI-ILYEO](https://github.com/AlleninTaipei/TAICHI-ILYEO) : An illustrated guide to WT Taekwondo poomsae, and a full record of collaborating with Claude Code from scratch to finished product.
+[TAICHI-ILYEO](https://github.com/AlleninTaipei/TAICHI-ILYEO) : 跆拳道品勢圖解專案, 同時記錄與 Claude Code 協作從零到成品的完整過程.
