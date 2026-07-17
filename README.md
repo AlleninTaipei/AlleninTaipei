@@ -44,7 +44,7 @@ English | [中文](README-zh.md)
 
 [consolidate-specs](https://github.com/AlleninTaipei/consolidate-specs) : A real business need, consolidating Excel spec sheets from multiple models into a single file for easier comparison and management.
 
-[taiwan-portfolio](https://github.com/AlleninTaipei/taiwan-portfolio) : A personal Taiwan stock profit and loss tracker, built as a hands-on project for learning core PostgreSQL features.
+[taiwan-portfolio](https://github.com/AlleninTaipei/taiwan-portfolio), [tw-stock-list-fetcher](https://github.com/AlleninTaipei/tw-stock-list-fetcher) : A personal Taiwan stock profit and loss tracker, built as a hands-on project for learning core PostgreSQL features.
 
 ---
 

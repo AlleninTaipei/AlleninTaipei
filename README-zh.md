@@ -44,7 +44,7 @@
 
 [consolidate-specs](https://github.com/AlleninTaipei/consolidate-specs) : 將多機種 Excel 規格檔彙整成單一檔案, 方便比較與管理的實務需求專案.
 
-[taiwan-portfolio](https://github.com/AlleninTaipei/taiwan-portfolio) : 個人台股損益追蹤工具, 作為學習 PostgreSQL 核心功能的實作專案.
+[taiwan-portfolio](https://github.com/AlleninTaipei/taiwan-portfolio), [tw-stock-list-fetcher](https://github.com/AlleninTaipei/tw-stock-list-fetcher) : 個人台股損益追蹤工具, 作為學習 PostgreSQL 核心功能的實作專案.
 
 ---
 
