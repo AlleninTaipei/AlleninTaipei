@@ -18,19 +18,19 @@
 
 ### API Key required
 
-[claude-api-visual-primer](https://github.com/AlleninTaipei/claude-api-visual-primer) : A visual guide to LLM API development concepts, helping developers adopt AI-assisted coding more effectively.
+[claude-api-visual-primer](https://github.com/AlleninTaipei/claude-api-visual-primer) : A visual guide to LLM API development concepts, helping developers adopt AI-assisted coding more effectively. Supported API providers : `Anthropic`, `Google`, `OpenAI` (also supports local `Ollama` / `LM Studio`, no API key required).
 
-[MCPChat](https://github.com/AlleninTaipei/MCPChat) : An AI chat client demonstrating how to connect LLMs with external tools using the Model Context Protocol.
+[MCPChat](https://github.com/AlleninTaipei/MCPChat) : An AI chat client demonstrating how to connect LLMs with external tools using the Model Context Protocol. Supported API providers : `OpenAI`.
 
-[vocabulary-app](https://github.com/AlleninTaipei/vocabulary-app) : A product-thinking exercise, learning AI step by step while building an AI application.
+[vocabulary-app](https://github.com/AlleninTaipei/vocabulary-app) : A product-thinking exercise, learning AI step by step while building an AI application. Supported API providers : `Anthropic`, `Google`, `OpenAI` (also supports local `Ollama` / `LM Studio`, no API key required).
 
-[chitchat](https://github.com/AlleninTaipei/chitchat) : A product-thinking exercise, learning AI step by step while building an AI application.
+[chitchat](https://github.com/AlleninTaipei/chitchat) : A product-thinking exercise, learning AI step by step while building an AI application. Supported API providers : `Anthropic`.
 
-[castroom](https://github.com/AlleninTaipei/castroom) : A product-thinking exercise, learning AI step by step while building an AI application.
+[castroom](https://github.com/AlleninTaipei/castroom) : A product-thinking exercise, learning AI step by step while building an AI application. Supported API providers : `Google`.
 
-[carbon-audit-tower](https://github.com/AlleninTaipei/carbon-audit-tower) : A proof of concept for an end-to-end audit process for GHG Protocol Scope 3, Category 4, upstream transportation.
+[carbon-audit-tower](https://github.com/AlleninTaipei/carbon-audit-tower) : A proof of concept for an end-to-end audit process for GHG Protocol Scope 3, Category 4, upstream transportation. Supported API providers : `Google` (Maps / Routes API).
 
-[geo-pipeline](https://github.com/AlleninTaipei/geo-pipeline) : Converts ASRock product specs from Excel into Schema.org JSON-LD structured data to improve visibility in AI search engines.
+[geo-pipeline](https://github.com/AlleninTaipei/geo-pipeline) : Converts ASRock product specs from Excel into Schema.org JSON-LD structured data to improve visibility in AI search engines. Supported API providers : `Anthropic`.
 
 ---
 

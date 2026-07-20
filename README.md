@@ -20,19 +20,19 @@
 
 ### API Key required
 
-[claude-api-visual-primer](https://github.com/AlleninTaipei/claude-api-visual-primer) : 圖解 LLM API 開發概念, 協助開發者更有效採用 AI 輔助編碼.
+[claude-api-visual-primer](https://github.com/AlleninTaipei/claude-api-visual-primer) : 圖解 LLM API 開發概念, 協助開發者更有效採用 AI 輔助編碼. 支援的 API 供應商 : `Anthropic`, `Google`, `OpenAI` (另支援本機 `Ollama` / `LM Studio`, 免 API Key).
 
-[MCPChat](https://github.com/AlleninTaipei/MCPChat) : 示範以 Model Context Protocol 串接 LLM 與外部工具的 AI 聊天用戶端.
+[MCPChat](https://github.com/AlleninTaipei/MCPChat) : 示範以 Model Context Protocol 串接 LLM 與外部工具的 AI 聊天用戶端. 支援的 API 供應商 : `OpenAI`.
 
-[vocabulary-app](https://github.com/AlleninTaipei/vocabulary-app) : 實踐產品思維, 在打造 AI 應用的過程中逐步學會 AI.
+[vocabulary-app](https://github.com/AlleninTaipei/vocabulary-app) : 實踐產品思維, 在打造 AI 應用的過程中逐步學會 AI. 支援的 API 供應商 : `Anthropic`, `Google`, `OpenAI` (另支援本機 `Ollama` / `LM Studio`, 免 API Key).
 
-[chitchat](https://github.com/AlleninTaipei/chitchat) : 實踐產品思維, 在打造 AI 應用的過程中逐步學會 AI.
+[chitchat](https://github.com/AlleninTaipei/chitchat) : 實踐產品思維, 在打造 AI 應用的過程中逐步學會 AI. 支援的 API 供應商 : `Anthropic`.
 
-[castroom](https://github.com/AlleninTaipei/castroom) : 實踐產品思維, 在打造 AI 應用的過程中逐步學會 AI.
+[castroom](https://github.com/AlleninTaipei/castroom) : 實踐產品思維, 在打造 AI 應用的過程中逐步學會 AI. 支援的 API 供應商 : `Google`.
 
-[carbon-audit-tower](https://github.com/AlleninTaipei/carbon-audit-tower) : 溫室氣體盤查議定書範疇三類別四上游運輸的端對端稽核流程概念驗證.
+[carbon-audit-tower](https://github.com/AlleninTaipei/carbon-audit-tower) : 溫室氣體盤查議定書範疇三類別四上游運輸的端對端稽核流程概念驗證. 支援的 API 供應商 : `Google` (Maps / Routes API).
 
-[geo-pipeline](https://github.com/AlleninTaipei/geo-pipeline) : 將 ASRock 產品規格從 Excel 轉換為 Schema.org JSON-LD 結構化資料, 提升在 AI 搜尋引擎中的能見度.
+[geo-pipeline](https://github.com/AlleninTaipei/geo-pipeline) : 將 ASRock 產品規格從 Excel 轉換為 Schema.org JSON-LD 結構化資料, 提升在 AI 搜尋引擎中的能見度. 支援的 API 供應商 : `Anthropic`.
 
 ---
 
