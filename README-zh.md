@@ -10,8 +10,6 @@
 
 [AI-Native-Card-Studio](https://github.com/AlleninTaipei/AI-Native-Card-Studio) : 以 Claude Code 打造的圖文卡片生成工作流, 程式碼負責排版與截圖, AI Agent 負責選圖與語意判斷.
 
-[md2draw](https://github.com/AlleninTaipei/md2draw) : 一鍵將 Markdown 想法與計劃轉換成 Excalidraw 圖表.
-
 [claude-code-cli-lab](https://github.com/AlleninTaipei/claude-code-cli-lab) : 以 Python 自動化驅動 Claude Code CLI 非互動模式的實驗專案.
 
 ---

@@ -8,8 +8,6 @@
 
 [AI-Native-Card-Studio](https://github.com/AlleninTaipei/AI-Native-Card-Studio) : A card generation workflow built with Claude Code, code handles layout and screenshots, the AI agent handles image selection and semantic judgment.
 
-[md2draw](https://github.com/AlleninTaipei/md2draw) : Converts Markdown notes and plans into Excalidraw diagrams in one step.
-
 [claude-code-cli-lab](https://github.com/AlleninTaipei/claude-code-cli-lab) : An experimental project driving the Claude Code CLI's non-interactive mode through Python automation.
 
 ---
