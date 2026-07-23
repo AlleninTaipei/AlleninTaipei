@@ -18,7 +18,7 @@
 
 ### API Key required
 
-[claude-api-visual-primer](https://github.com/AlleninTaipei/claude-api-visual-primer) : 圖解 LLM API 開發概念, 協助開發者更有效採用 AI 輔助編碼. 支援的 API 供應商 : `Anthropic`, `Google`, `OpenAI` (另支援本機 `Ollama` / `LM Studio`, 免 API Key).
+[claude-api-visual-primer](https://github.com/AlleninTaipei/claude-api-visual-primer) : 圖解 LLM API 開發概念, 協助開發者更有效採用 AI 輔助編碼. 支援的 API 供應商 : `Anthropic`, `Google`, `OpenAI`.
 
 [MCPChat](https://github.com/AlleninTaipei/MCPChat) : 示範以 Model Context Protocol 串接 LLM 與外部工具的 AI 聊天用戶端. 支援的 API 供應商 : `OpenAI`.
 

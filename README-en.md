@@ -16,7 +16,7 @@
 
 ### API Key required
 
-[claude-api-visual-primer](https://github.com/AlleninTaipei/claude-api-visual-primer) : A visual guide to LLM API development concepts, helping developers adopt AI-assisted coding more effectively. Supported API providers : `Anthropic`, `Google`, `OpenAI` (also supports local `Ollama` / `LM Studio`, no API key required).
+[claude-api-visual-primer](https://github.com/AlleninTaipei/claude-api-visual-primer) : A visual guide to LLM API development concepts, helping developers adopt AI-assisted coding more effectively. Supported API providers : `Anthropic`, `Google`, `OpenAI`.
 
 [MCPChat](https://github.com/AlleninTaipei/MCPChat) : An AI chat client demonstrating how to connect LLMs with external tools using the Model Context Protocol. Supported API providers : `OpenAI`.
 
