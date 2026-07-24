@@ -22,7 +22,7 @@
 
 [MCPChat](https://github.com/AlleninTaipei/MCPChat) : 示範以 Model Context Protocol 串接 LLM 與外部工具的 AI 聊天用戶端. 支援的 API 供應商 : `OpenAI`.
 
-[vocabulary-app](https://github.com/AlleninTaipei/vocabulary-app) : 實踐產品思維, 在打造 AI 應用的過程中逐步學會 AI. 支援的 API 供應商 : `Anthropic`, `Google`, `OpenAI` (另支援本機 `Ollama` / `LM Studio`, 免 API Key).
+[vocabulary-app](https://github.com/AlleninTaipei/vocabulary-app) : 實踐產品思維, 在打造 AI 應用的過程中逐步學會 AI. 支援的 API 供應商 : `Anthropic`, `Google`, `OpenAI`.
 
 [chitchat](https://github.com/AlleninTaipei/chitchat) : 實踐產品思維, 在打造 AI 應用的過程中逐步學會 AI. 支援的 API 供應商 : `Anthropic`.
 

@@ -20,7 +20,7 @@
 
 [MCPChat](https://github.com/AlleninTaipei/MCPChat) : An AI chat client demonstrating how to connect LLMs with external tools using the Model Context Protocol. Supported API providers : `OpenAI`.
 
-[vocabulary-app](https://github.com/AlleninTaipei/vocabulary-app) : A product-thinking exercise, learning AI step by step while building an AI application. Supported API providers : `Anthropic`, `Google`, `OpenAI` (also supports local `Ollama` / `LM Studio`, no API key required).
+[vocabulary-app](https://github.com/AlleninTaipei/vocabulary-app) : A product-thinking exercise, learning AI step by step while building an AI application. Supported API providers : `Anthropic`, `Google`, `OpenAI`.
 
 [chitchat](https://github.com/AlleninTaipei/chitchat) : A product-thinking exercise, learning AI step by step while building an AI application. Supported API providers : `Anthropic`.
 
