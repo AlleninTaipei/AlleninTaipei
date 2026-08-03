@@ -38,6 +38,8 @@
 
 [ryzenai-computex-demo](https://github.com/AlleninTaipei/ryzenai-computex-demo) : COMPUTEX 2026 展示 AMD Ryzen AI 於 ASRock 主機上運行的五幕現場展演.
 
+[official-website-chatbot-demo](https://github.com/AlleninTaipei/official-website-chatbot-demo) : 以本機 claude CLI 模擬 ASRock AI Center 官網 chatbot, 驗證前端互動體驗與後端串接可行性.
+
 [script-kokoro-app](https://github.com/AlleninTaipei/script-kokoro-app) : 以 AI 輔助編碼打造本地端文字轉語音管線的實作範例.
 
 [consolidate-specs](https://github.com/AlleninTaipei/consolidate-specs) : 將多機種 Excel 規格檔彙整成單一檔案, 方便比較與管理的實務需求專案.

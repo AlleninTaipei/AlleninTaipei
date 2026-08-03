@@ -36,6 +36,8 @@
 
 [ryzenai-computex-demo](https://github.com/AlleninTaipei/ryzenai-computex-demo) : A five-act live demo showcasing AMD Ryzen AI running on an ASRock PC at COMPUTEX 2026.
 
+[official-website-chatbot-demo](https://github.com/AlleninTaipei/official-website-chatbot-demo) : A local demo simulating the ASRock AI Center official website chatbot using the local claude CLI, to validate the frontend interaction and backend integration feasibility.
+
 [script-kokoro-app](https://github.com/AlleninTaipei/script-kokoro-app) : A practical example of using AI-assisted coding to build a local text-to-speech pipeline.
 
 [consolidate-specs](https://github.com/AlleninTaipei/consolidate-specs) : A real business need, consolidating Excel spec sheets from multiple models into a single file for easier comparison and management.
