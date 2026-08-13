@@ -40,6 +40,10 @@
 
 [script-kokoro-app](https://github.com/AlleninTaipei/script-kokoro-app) : 以 AI 輔助編碼打造本地端文字轉語音管線的實作範例.
 
+[newegg_mb_review](https://github.com/AlleninTaipei/newegg_mb_review) : 跨北美, 日本, 韓國市場擷取主機板評價與售價資料, 產生互動式 HTML 儀表板, 並可透過郵件寄送報表.
+
+[mb-info-helper](https://github.com/AlleninTaipei/mb-info-helper) : 定期查詢 ASUS 主機板公開 API, 追蹤 BIOS, PD Firmware, Intel ME 與 CPU QVL 更新, 有異動時透過 SMTP 寄送摘要郵件.
+
 [consolidate-specs](https://github.com/AlleninTaipei/consolidate-specs) : 將多機種 Excel 規格檔彙整成單一檔案, 方便比較與管理的實務需求專案.
 
 [taiwan-portfolio](https://github.com/AlleninTaipei/taiwan-portfolio), [tw-stock-list-fetcher](https://github.com/AlleninTaipei/tw-stock-list-fetcher) : 個人台股損益追蹤工具, 作為學習 PostgreSQL 核心功能的實作專案.

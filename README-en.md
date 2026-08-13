@@ -38,6 +38,10 @@
 
 [script-kokoro-app](https://github.com/AlleninTaipei/script-kokoro-app) : A practical example of using AI-assisted coding to build a local text-to-speech pipeline.
 
+[newegg_mb_review](https://github.com/AlleninTaipei/newegg_mb_review) : Scrapes motherboard reviews and pricing across North America, Japan, and Korea, generating interactive HTML dashboards and optionally emailing the reports.
+
+[mb-info-helper](https://github.com/AlleninTaipei/mb-info-helper) : Periodically polls ASUS's public motherboard API to track BIOS, PD Firmware, Intel ME, and CPU QVL updates, emailing a change summary via SMTP when changes are detected.
+
 [consolidate-specs](https://github.com/AlleninTaipei/consolidate-specs) : A real business need, consolidating Excel spec sheets from multiple models into a single file for easier comparison and management.
 
 [taiwan-portfolio](https://github.com/AlleninTaipei/taiwan-portfolio), [tw-stock-list-fetcher](https://github.com/AlleninTaipei/tw-stock-list-fetcher) : A personal Taiwan stock profit and loss tracker, built as a hands-on project for learning core PostgreSQL features.
