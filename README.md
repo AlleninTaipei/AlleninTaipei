@@ -54,7 +54,7 @@
 
 [my-ChatGPTCodexDoc](https://github.com/AlleninTaipei/my-ChatGPTCodexDoc) : 以繁體中文重新編寫的 ChatGPT 與 Codex 官方文件, 轉換成六份互動式單頁課程.
 
-[ASRockAICenter](https://github.com/AlleninTaipei/ASRockAICenter) : 說明企業 AI 完全在地端基礎設施運行的產品理念.
+[ASRockAICenter](https://github.com/AlleninTaipei/ASRockAICenter/tree/no-redirect) : 此分支在 main 的基礎上額外加入一套僅供本機示範的 chatbot widget, 用來展示官網未來導入 AI 對話助理的可行性.
 
 ---
 
@@ -65,3 +65,7 @@
 [messy-notes-frontend-design-demo](https://github.com/AlleninTaipei/messy-notes-frontend-design-demo) : 以 Claude Code frontend-design plugin 將雜記 Markdown 轉成互動式網頁的最小示範.
 
 [TAICHI-ILYEO](https://github.com/AlleninTaipei/TAICHI-ILYEO) : 跆拳道品勢圖解專案, 同時記錄與 Claude Code 協作從零到成品的完整過程.
+
+[my-claude-code-skills](https://github.com/AlleninTaipei/my-claude-code-skills) : 個人的 Claude Code 自訂 Skills 與 Slash Commands 集合, 用於擴充教學內容產生, 簡報製作與文件撰寫等能力.
+
+[my-codex-skills](https://github.com/AlleninTaipei/my-codex-skills) : 個人的 Codex 自訂 Skills 集合, 用於擴充文件教學, 互動課程, 簡報製作與影片轉簡報等工作流程.
