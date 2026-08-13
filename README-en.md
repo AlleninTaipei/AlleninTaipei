@@ -58,6 +58,8 @@
 
 [ASRockAICenter](https://github.com/AlleninTaipei/ASRockAICenter/tree/no-redirect) : This branch builds on main by adding a local-only demo chatbot widget, showcasing the feasibility of bringing an AI chat assistant to the official website in the future.
 
+[reverse-aging-plan](https://github.com/AlleninTaipei/reverse-aging-plan) : A personal home workout plan built as a single HTML file, addable to the iPhone home screen and opened as a full-screen standalone view.
+
 ---
 
 ### Notes

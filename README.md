@@ -60,6 +60,8 @@
 
 [ASRockAICenter](https://github.com/AlleninTaipei/ASRockAICenter/tree/no-redirect) : 此分支在 main 的基礎上額外加入一套僅供本機示範的 chatbot widget, 用來展示官網未來導入 AI 對話助理的可行性.
 
+[reverse-aging-plan](https://github.com/AlleninTaipei/reverse-aging-plan) : 個人居家訓練計畫, 做成單一 HTML 檔案, 可加到 iPhone 主畫面, 以全螢幕獨立視窗開啟.
+
 ---
 
 ### Notes
