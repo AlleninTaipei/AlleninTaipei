@@ -6,6 +6,8 @@
 
 [one_day_one_ai](https://github.com/AlleninTaipei/one_day_one_ai) : A concept showcase of digital assets in the AI era.
 
+[bnext-ai-news](https://github.com/AlleninTaipei/bnext-ai-news) : An article index tracking the AI and big data category pages of a digital-era news site, presented as an interactive HTML single-page scrolling document.
+
 [AI-Native-Card-Studio](https://github.com/AlleninTaipei/AI-Native-Card-Studio) : A card generation workflow built with Claude Code, code handles layout and screenshots, the AI agent handles image selection and semantic judgment.
 
 [claude-code-cli-lab](https://github.com/AlleninTaipei/claude-code-cli-lab) : An experimental project driving the Claude Code CLI's non-interactive mode through Python automation.
@@ -45,8 +47,6 @@
 [consolidate-specs](https://github.com/AlleninTaipei/consolidate-specs) : A real business need, consolidating Excel spec sheets from multiple models into a single file for easier comparison and management.
 
 [taiwan-portfolio](https://github.com/AlleninTaipei/taiwan-portfolio), [tw-stock-list-fetcher](https://github.com/AlleninTaipei/tw-stock-list-fetcher) : A personal Taiwan stock profit and loss tracker, built as a hands-on project for learning core PostgreSQL features.
-
-[bnext-ai-news](https://github.com/AlleninTaipei/bnext-ai-news) : An article index tracking the AI and big data category pages of a digital-era news site, presented as an interactive HTML single-page scrolling document.
 
 ---
 
