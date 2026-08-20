@@ -48,6 +48,8 @@
 
 [taiwan-portfolio](https://github.com/AlleninTaipei/taiwan-portfolio), [tw-stock-list-fetcher](https://github.com/AlleninTaipei/tw-stock-list-fetcher) : 個人台股損益追蹤工具, 作為學習 PostgreSQL 核心功能的實作專案.
 
+[bnext-ai-news](https://github.com/AlleninTaipei/bnext-ai-news) : 追蹤數位時代網站 AI 與大數據分類頁面的文章索引, 以互動式 HTML 捲動式單頁文件呈現.
+
 ---
 
 ### GitHub-Pages

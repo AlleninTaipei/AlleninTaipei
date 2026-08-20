@@ -46,6 +46,8 @@
 
 [taiwan-portfolio](https://github.com/AlleninTaipei/taiwan-portfolio), [tw-stock-list-fetcher](https://github.com/AlleninTaipei/tw-stock-list-fetcher) : A personal Taiwan stock profit and loss tracker, built as a hands-on project for learning core PostgreSQL features.
 
+[bnext-ai-news](https://github.com/AlleninTaipei/bnext-ai-news) : An article index tracking the AI and big data category pages of a digital-era news site, presented as an interactive HTML single-page scrolling document.
+
 ---
 
 ### GitHub-Pages
