@@ -12,6 +12,8 @@
 
 [claude-code-cli-lab](https://github.com/AlleninTaipei/claude-code-cli-lab) : An experimental project driving the Claude Code CLI's non-interactive mode through Python automation.
 
+[lola-English](https://github.com/AlleninTaipei/lola-English) : An AI-readable learning notes database for the Lola Speaks English YouTube channel, collecting structured notes, subtitles, and bilingual transcripts for business English videos.
+
 ---
 
 ## AI-Assisted Development

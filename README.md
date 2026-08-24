@@ -14,6 +14,8 @@
 
 [claude-code-cli-lab](https://github.com/AlleninTaipei/claude-code-cli-lab) : 以 Python 自動化驅動 Claude Code CLI 非互動模式的實驗專案.
 
+[lola-English](https://github.com/AlleninTaipei/lola-English) : 針對 Lola 說英語 YouTube 頻道打造的 AI 可讀學習筆記資料庫, 收錄商務英語短片的結構化筆記, 字幕與中英對照.
+
 ---
 
 ## AI-Assisted Development
