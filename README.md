@@ -72,10 +72,12 @@
 
 [LLM-Engineering-Notes](https://github.com/AlleninTaipei/LLM-Engineering-Notes) : 從第一性原理理解 AI 系統的 LLM 工程筆記.
 
-[messy-notes-frontend-design-demo](https://github.com/AlleninTaipei/messy-notes-frontend-design-demo) : 以 Claude Code frontend-design plugin 將雜記 Markdown 轉成互動式網頁的最小示範.
-
-[TAICHI-ILYEO](https://github.com/AlleninTaipei/TAICHI-ILYEO) : 跆拳道品勢圖解專案, 同時記錄與 Claude Code 協作從零到成品的完整過程.
+[agentic-engineering-notes-zh-tw](https://github.com/AlleninTaipei/agentic-engineering-notes-zh-tw) : 以繁體中文整理的 Agentic 工程筆記.
 
 [my-claude-code-skills](https://github.com/AlleninTaipei/my-claude-code-skills) : 個人的 Claude Code 自訂 Skills 與 Slash Commands 集合, 用於擴充教學內容產生, 簡報製作與文件撰寫等能力.
 
 [my-codex-skills](https://github.com/AlleninTaipei/my-codex-skills) : 個人的 Codex 自訂 Skills 集合, 用於擴充文件教學, 互動課程, 簡報製作與影片轉簡報等工作流程.
+
+[messy-notes-frontend-design-demo](https://github.com/AlleninTaipei/messy-notes-frontend-design-demo) : 以 Claude Code frontend-design plugin 將雜記 Markdown 轉成互動式網頁的最小示範.
+
+[TAICHI-ILYEO](https://github.com/AlleninTaipei/TAICHI-ILYEO) : 跆拳道品勢圖解專案, 同時記錄與 Claude Code 協作從零到成品的完整過程.

@@ -70,10 +70,12 @@
 
 [LLM-Engineering-Notes](https://github.com/AlleninTaipei/LLM-Engineering-Notes) : A practitioner's notes on LLM engineering, built on a first-principles understanding of AI systems.
 
-[messy-notes-frontend-design-demo](https://github.com/AlleninTaipei/messy-notes-frontend-design-demo) : A minimal demo using the Claude Code frontend-design plugin to turn messy Markdown notes into an interactive webpage.
-
-[TAICHI-ILYEO](https://github.com/AlleninTaipei/TAICHI-ILYEO) : An illustrated guide to WT Taekwondo poomsae, and a full record of collaborating with Claude Code from scratch to finished product.
+[agentic-engineering-notes-zh-tw](https://github.com/AlleninTaipei/agentic-engineering-notes-zh-tw) : Agentic engineering notes written in Traditional Chinese.
 
 [my-claude-code-skills](https://github.com/AlleninTaipei/my-claude-code-skills) : A personal collection of custom Claude Code skills and slash commands, extending capabilities for generating course content, building presentations, and writing documentation.
 
 [my-codex-skills](https://github.com/AlleninTaipei/my-codex-skills) : A personal collection of custom Codex skills, extending workflows for document tutorials, interactive courses, presentation building, and video-to-slides conversion.
+
+[messy-notes-frontend-design-demo](https://github.com/AlleninTaipei/messy-notes-frontend-design-demo) : A minimal demo using the Claude Code frontend-design plugin to turn messy Markdown notes into an interactive webpage.
+
+[TAICHI-ILYEO](https://github.com/AlleninTaipei/TAICHI-ILYEO) : An illustrated guide to WT Taekwondo poomsae, and a full record of collaborating with Claude Code from scratch to finished product.
