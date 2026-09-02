@@ -4,15 +4,13 @@
 
 ## AI-Native Assets
 
-[one_day_one_ai](https://github.com/AlleninTaipei/one_day_one_ai) : A concept showcase of digital assets in the AI era.
-
-[bnext-ai-news](https://github.com/AlleninTaipei/bnext-ai-news) : An article index tracking the AI and big data category pages of a digital-era news site, presented as an interactive HTML single-page scrolling document.
+[claude-code-cli-lab](https://github.com/AlleninTaipei/claude-code-cli-lab) : An experimental project driving the Claude Code CLI's non-interactive mode through Python automation.
 
 [AI-Native-Card-Studio](https://github.com/AlleninTaipei/AI-Native-Card-Studio) : A card generation workflow built with Claude Code, code handles layout and screenshots, the AI agent handles image selection and semantic judgment.
 
-[claude-code-cli-lab](https://github.com/AlleninTaipei/claude-code-cli-lab) : An experimental project driving the Claude Code CLI's non-interactive mode through Python automation.
+[one_day_one_ai](https://github.com/AlleninTaipei/one_day_one_ai) : A concept showcase of digital assets in the AI era.
 
-[lola-English](https://github.com/AlleninTaipei/lola-English) : An AI-readable learning notes database for the Lola Speaks English YouTube channel, collecting structured notes, subtitles, and bilingual transcripts for business English videos.
+[bnext-ai-news](https://github.com/AlleninTaipei/bnext-ai-news) : An article index tracking the AI and big data category pages of a digital-era news site, presented as an interactive HTML single-page scrolling document.
 
 ---
 
@@ -68,13 +66,13 @@
 
 ### Notes
 
-[LLM-Engineering-Notes](https://github.com/AlleninTaipei/LLM-Engineering-Notes) : A practitioner's notes on LLM engineering, built on a first-principles understanding of AI systems.
-
-[agentic-engineering-notes-zh-tw](https://github.com/AlleninTaipei/agentic-engineering-notes-zh-tw) : Agentic engineering notes written in Traditional Chinese.
-
 [my-claude-code-skills](https://github.com/AlleninTaipei/my-claude-code-skills) : A personal collection of custom Claude Code skills and slash commands, extending capabilities for generating course content, building presentations, and writing documentation.
 
 [my-codex-skills](https://github.com/AlleninTaipei/my-codex-skills) : A personal collection of custom Codex skills, extending workflows for document tutorials, interactive courses, presentation building, and video-to-slides conversion.
+
+[agentic-engineering-notes-zh-tw](https://github.com/AlleninTaipei/agentic-engineering-notes-zh-tw) : Agentic engineering notes written in Traditional Chinese.
+
+[LLM-Engineering-Notes](https://github.com/AlleninTaipei/LLM-Engineering-Notes) : A practitioner's notes on LLM engineering, built on a first-principles understanding of AI systems.
 
 [messy-notes-frontend-design-demo](https://github.com/AlleninTaipei/messy-notes-frontend-design-demo) : A minimal demo using the Claude Code frontend-design plugin to turn messy Markdown notes into an interactive webpage.
 

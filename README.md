@@ -6,15 +6,13 @@
 
 ## AI-Native Assets
 
-[one_day_one_ai](https://github.com/AlleninTaipei/one_day_one_ai) : AI 時代數位資產的概念展示.
-
-[bnext-ai-news](https://github.com/AlleninTaipei/bnext-ai-news) : 追蹤數位時代網站 AI 與大數據分類頁面的文章索引, 以互動式 HTML 捲動式單頁文件呈現.
+[claude-code-cli-lab](https://github.com/AlleninTaipei/claude-code-cli-lab) : 以 Python 自動化驅動 Claude Code CLI 非互動模式的實驗專案.
 
 [AI-Native-Card-Studio](https://github.com/AlleninTaipei/AI-Native-Card-Studio) : 以 Claude Code 打造的圖文卡片生成工作流, 程式碼負責排版與截圖, AI Agent 負責選圖與語意判斷.
 
-[claude-code-cli-lab](https://github.com/AlleninTaipei/claude-code-cli-lab) : 以 Python 自動化驅動 Claude Code CLI 非互動模式的實驗專案.
+[one_day_one_ai](https://github.com/AlleninTaipei/one_day_one_ai) : AI 時代數位資產的概念展示.
 
-[lola-English](https://github.com/AlleninTaipei/lola-English) : 針對 Lola 說英語 YouTube 頻道打造的 AI 可讀學習筆記資料庫, 收錄商務英語短片的結構化筆記, 字幕與中英對照.
+[bnext-ai-news](https://github.com/AlleninTaipei/bnext-ai-news) : 追蹤數位時代網站 AI 與大數據分類頁面的文章索引, 以互動式 HTML 捲動式單頁文件呈現.
 
 ---
 
@@ -70,13 +68,13 @@
 
 ### Notes
 
-[LLM-Engineering-Notes](https://github.com/AlleninTaipei/LLM-Engineering-Notes) : 從第一性原理理解 AI 系統的 LLM 工程筆記.
-
-[agentic-engineering-notes-zh-tw](https://github.com/AlleninTaipei/agentic-engineering-notes-zh-tw) : 以繁體中文整理的 Agentic 工程筆記.
-
 [my-claude-code-skills](https://github.com/AlleninTaipei/my-claude-code-skills) : 個人的 Claude Code 自訂 Skills 與 Slash Commands 集合, 用於擴充教學內容產生, 簡報製作與文件撰寫等能力.
 
 [my-codex-skills](https://github.com/AlleninTaipei/my-codex-skills) : 個人的 Codex 自訂 Skills 集合, 用於擴充文件教學, 互動課程, 簡報製作與影片轉簡報等工作流程.
+
+[agentic-engineering-notes-zh-tw](https://github.com/AlleninTaipei/agentic-engineering-notes-zh-tw) : 以繁體中文整理的 Agentic 工程筆記.
+
+[LLM-Engineering-Notes](https://github.com/AlleninTaipei/LLM-Engineering-Notes) : 從第一性原理理解 AI 系統的 LLM 工程筆記.
 
 [messy-notes-frontend-design-demo](https://github.com/AlleninTaipei/messy-notes-frontend-design-demo) : 以 Claude Code frontend-design plugin 將雜記 Markdown 轉成互動式網頁的最小示範.
 
