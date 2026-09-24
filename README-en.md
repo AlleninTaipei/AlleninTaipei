@@ -12,6 +12,8 @@
 
 [bnext-ai-news](https://github.com/AlleninTaipei/bnext-ai-news) : An article index tracking the AI and big data category pages of a digital-era news site, presented as an interactive HTML single-page scrolling document.
 
+[laozi](https://github.com/AlleninTaipei/laozi) : A Claude Skill that borrows Laozi's way of seeing things, first identifying where you are stuck, then quoting a line from the Tao Te Ching for insight.
+
 ---
 
 ## AI-Assisted Development

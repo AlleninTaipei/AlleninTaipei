@@ -14,6 +14,8 @@
 
 [bnext-ai-news](https://github.com/AlleninTaipei/bnext-ai-news) : 追蹤數位時代網站 AI 與大數據分類頁面的文章索引, 以互動式 HTML 捲動式單頁文件呈現.
 
+[laozi](https://github.com/AlleninTaipei/laozi) : 借用老子看事情方式的 Claude Skill, 先看出使用者卡在哪裡, 再引一句《道德經》原文給予啟發.
+
 ---
 
 ## AI-Assisted Development
