@@ -44,6 +44,8 @@
 
 [ryzenai-computex-demo](https://github.com/AlleninTaipei/ryzenai-computex-demo) : A five-act live demo showcasing AMD Ryzen AI running on an ASRock PC at COMPUTEX 2026.
 
+[website-chatbot-demo](https://github.com/AlleninTaipei/website-chatbot-demo) : A local mock-up of a chatbot for the ASRock AI Center website, using the local `claude` CLI as the reply engine to validate the front-end experience and back-end integration.
+
 [script-kokoro-app](https://github.com/AlleninTaipei/script-kokoro-app) : A practical example of using AI-assisted coding to build a local text-to-speech pipeline.
 
 [newegg_mb_review](https://github.com/AlleninTaipei/newegg_mb_review) : Scrapes motherboard reviews and pricing across North America, Japan, and Korea, generating interactive HTML dashboards and optionally emailing the reports.

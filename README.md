@@ -46,6 +46,8 @@
 
 [ryzenai-computex-demo](https://github.com/AlleninTaipei/ryzenai-computex-demo) : COMPUTEX 2026 展示 AMD Ryzen AI 於 ASRock 主機上運行的五幕現場展演.
 
+[website-chatbot-demo](https://github.com/AlleninTaipei/website-chatbot-demo) : ASRock AI Center 官網 chatbot 本地模擬, 以本機 `claude` CLI 作為回覆引擎, 驗證前端互動體驗與後端串接可行性.
+
 [script-kokoro-app](https://github.com/AlleninTaipei/script-kokoro-app) : 以 AI 輔助編碼打造本地端文字轉語音管線的實作範例.
 
 [newegg_mb_review](https://github.com/AlleninTaipei/newegg_mb_review) : 跨北美, 日本, 韓國市場擷取主機板評價與售價資料, 產生互動式 HTML 儀表板, 並可透過郵件寄送報表.
