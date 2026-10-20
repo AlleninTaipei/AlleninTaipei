@@ -38,6 +38,8 @@
 
 [geo-pipeline](https://github.com/AlleninTaipei/geo-pipeline) : 將 ASRock 產品規格從 Excel 轉換為 Schema.org JSON-LD 結構化資料, 提升在 AI 搜尋引擎中的能見度. 支援的 API 供應商 : `Anthropic`.
 
+[PromptEvaluation](https://github.com/AlleninTaipei/PromptEvaluation) : 自動化提示詞評估流程, 先生成測試資料集, 再以語法驗證與 AI 評分雙重檢核 Claude 產出的 Python, JSON 與 Regex 程式碼. 支援的 API 供應商 : `Anthropic`.
+
 ---
 
 ### No API Key required

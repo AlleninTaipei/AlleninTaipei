@@ -36,6 +36,8 @@
 
 [geo-pipeline](https://github.com/AlleninTaipei/geo-pipeline) : Converts ASRock product specs from Excel into Schema.org JSON-LD structured data to improve visibility in AI search engines. Supported API providers : `Anthropic`.
 
+[PromptEvaluation](https://github.com/AlleninTaipei/PromptEvaluation) : An automated prompt evaluation pipeline that generates a test dataset, then scores the Python, JSON and Regex code Claude produces with both syntax validation and AI grading. Supported API providers : `Anthropic`.
+
 ---
 
 ### No API Key required
