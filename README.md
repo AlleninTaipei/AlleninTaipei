@@ -50,6 +50,8 @@
 
 [script-kokoro-app](https://github.com/AlleninTaipei/script-kokoro-app) : 以 AI 輔助編碼打造本地端文字轉語音管線的實作範例.
 
+[video-slide-reconstruction-workflow](https://github.com/AlleninTaipei/video-slide-reconstruction-workflow) : 將簡報型影片重建為可編輯 PowerPoint 與獨立 PDF 的工作流程, 以同一份 JSON 投影片規格產生兩種格式.
+
 [newegg_mb_review](https://github.com/AlleninTaipei/newegg_mb_review) : 跨北美, 日本, 韓國市場擷取主機板評價與售價資料, 產生互動式 HTML 儀表板, 並可透過郵件寄送報表.
 
 [mb-info-helper](https://github.com/AlleninTaipei/mb-info-helper) : 定期查詢 ASUS 主機板公開 API, 追蹤 BIOS, PD Firmware, Intel ME 與 CPU QVL 更新, 有異動時透過 SMTP 寄送摘要郵件.

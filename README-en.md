@@ -48,6 +48,8 @@
 
 [script-kokoro-app](https://github.com/AlleninTaipei/script-kokoro-app) : A practical example of using AI-assisted coding to build a local text-to-speech pipeline.
 
+[video-slide-reconstruction-workflow](https://github.com/AlleninTaipei/video-slide-reconstruction-workflow) : A repeatable workflow that rebuilds presentation-style videos into editable PowerPoint and standalone PDF, generating both formats from a single JSON slide spec.
+
 [newegg_mb_review](https://github.com/AlleninTaipei/newegg_mb_review) : Scrapes motherboard reviews and pricing across North America, Japan, and Korea, generating interactive HTML dashboards and optionally emailing the reports.
 
 [mb-info-helper](https://github.com/AlleninTaipei/mb-info-helper) : Periodically polls ASUS's public motherboard API to track BIOS, PD Firmware, Intel ME, and CPU QVL updates, emailing a change summary via SMTP when changes are detected.
