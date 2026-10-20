@@ -1,6 +1,6 @@
 # AlleninTaipei
 
-> A portfolio of AI-native tools and AI-assisted development projects.
+> A portfolio of AI-native assets and AI-assisted development, learning AI by building with it.
 
 ## AI-Native Assets
 

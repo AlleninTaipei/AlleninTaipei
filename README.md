@@ -2,7 +2,7 @@
 
 [English](README-en.md)
 
-> AI 原生工具與 AI 輔助開發專案的作品集.
+> AI 原生資產與 AI 輔助開發的作品集, 在實際打造的過程中學會 AI.
 
 ## AI-Native Assets
 
