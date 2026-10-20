@@ -16,6 +16,8 @@
 
 [laozi](https://github.com/AlleninTaipei/laozi) : 借用老子看事情方式的 Claude Skill, 先看出使用者卡在哪裡, 再引一句《道德經》原文給予啟發.
 
+[sunzi](https://github.com/AlleninTaipei/sunzi) : 借用孫子算局面方式的 Claude Skill, 陪經營者在出手前看清這一仗該不該打, 能不能打, 怎麼打代價最小.
+
 ---
 
 ## AI-Assisted Development

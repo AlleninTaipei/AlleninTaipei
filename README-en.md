@@ -14,6 +14,8 @@
 
 [laozi](https://github.com/AlleninTaipei/laozi) : A Claude Skill that borrows Laozi's way of seeing things, first identifying where you are stuck, then quoting a line from the Tao Te Ching for insight.
 
+[sunzi](https://github.com/AlleninTaipei/sunzi) : A Claude Skill that borrows Sun Tzu's way of reading a situation, helping business owners see, before they act, whether a battle should be fought, whether it can be won, and how to win it at the lowest cost.
+
 ---
 
 ## AI-Assisted Development
