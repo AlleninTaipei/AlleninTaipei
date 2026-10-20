@@ -78,7 +78,7 @@
 
 [my-codex-skills](https://github.com/AlleninTaipei/my-codex-skills) : 個人的 Codex 自訂 Skills 集合, 用於擴充文件教學, 互動課程, 簡報製作與影片轉簡報等工作流程.
 
-[agentic-engineering-notes-zh-tw](https://github.com/AlleninTaipei/agentic-engineering-notes-zh-tw) : 以繁體中文整理的 Agentic 工程筆記.
+[agentic-engineering-notes-zh-tw](https://github.com/AlleninTaipei/agentic-engineering-notes-zh-tw) : 以 Codex skill 將 AI coding, Agent 工程, MCP 與 Skills 相關的知識型 YouTube 影片整理成繁體中文學習筆記, 附時間戳連結可回溯原影片.
 
 [LLM-Engineering-Notes](https://github.com/AlleninTaipei/LLM-Engineering-Notes) : 從第一性原理理解 AI 系統的 LLM 工程筆記.
 

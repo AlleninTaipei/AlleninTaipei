@@ -76,7 +76,7 @@
 
 [my-codex-skills](https://github.com/AlleninTaipei/my-codex-skills) : A personal collection of custom Codex skills, extending workflows for document tutorials, interactive courses, presentation building, and video-to-slides conversion.
 
-[agentic-engineering-notes-zh-tw](https://github.com/AlleninTaipei/agentic-engineering-notes-zh-tw) : Agentic engineering notes written in Traditional Chinese.
+[agentic-engineering-notes-zh-tw](https://github.com/AlleninTaipei/agentic-engineering-notes-zh-tw) : Traditional Chinese study notes on knowledge-focused YouTube videos about AI coding, agent engineering, MCP and Skills, produced with a Codex skill and linked back to the source by timestamps.
 
 [LLM-Engineering-Notes](https://github.com/AlleninTaipei/LLM-Engineering-Notes) : A practitioner's notes on LLM engineering, built on a first-principles understanding of AI systems.
 
