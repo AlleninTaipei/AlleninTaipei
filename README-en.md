@@ -64,6 +64,8 @@
 
 [ASRockAICenter](https://github.com/AlleninTaipei/ASRockAICenter/tree/no-redirect) : This branch builds on main by adding a local-only demo chatbot widget, showcasing the feasibility of bringing an AI chat assistant to the official website in the future.
 
+[asrock-ai-fde-pitch](https://github.com/AlleninTaipei/asrock-ai-fde-pitch) : A pitch deck for ASRock AI Center FDE services, showing a hybrid setup where cloud AI orchestrates the work and on-premises GPUs run generation workloads.
+
 [reverse-aging-plan](https://github.com/AlleninTaipei/reverse-aging-plan) : A personal home workout plan built as a single HTML file, addable to the iPhone home screen and opened as a full-screen standalone view.
 
 ---
