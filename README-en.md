@@ -6,6 +6,8 @@
 
 [claude-code-cli-lab](https://github.com/AlleninTaipei/claude-code-cli-lab) : An experimental project driving the Claude Code CLI's non-interactive mode through Python automation.
 
+[claude-code-daily-digest](https://github.com/AlleninTaipei/claude-code-daily-digest) : With just one `CLAUDE.md` and a single "please update", Claude Code fetches AI news, updates the Markdown and HTML, then commits and pushes to multiple repos.
+
 [AI-Native-Card-Studio](https://github.com/AlleninTaipei/AI-Native-Card-Studio) : A card generation workflow built with Claude Code, code handles layout and screenshots, the AI agent handles image selection and semantic judgment.
 
 [one_day_one_ai](https://github.com/AlleninTaipei/one_day_one_ai) : A concept showcase of digital assets in the AI era.
